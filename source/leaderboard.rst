@@ -4,7 +4,9 @@ FrisBeer Leaderboard
 ====================
 
 .. warning::
-  These were the timings that I took which were already shared on the chat. For any conflicts please challenge the concerned defendant!
+  These were the timings that I took which were already shared on the chat. 
+  Times have been normalised (within reason) to 1.5 pints per person, where only alcoholic beverages drunk through a straw count. 
+  For any conflicts please challenge the concerned defendant!
 
 .. list-table:: 
    :header-rows: 1
@@ -14,19 +16,13 @@ FrisBeer Leaderboard
    * - Name
      - Normalised time (seconds)
      - Bevvy of choice (1.5 pints adjusted)
-   * - 🥇 Caleb Miller
-     - 49
-     - ? 
-   * - 🥈 Isabel Smith
+   * - 🥇 Isabel Smith
      - 70.86
      - ? 
-   * - 🥉 Ben Hutchins
+   * - 🥈 Ben Hutchins
      -  81
      - Beer (?)
-   * - Natalie Ratcliffe
-     - 84.23
-     - Orange and Lemonade (Non-Alc)
-   * - Blair McGinness
+   * - 🥉 Blair McGinness
      -  105
      - Beer (Show your stripes)
    * - Brian Lo
@@ -47,23 +43,27 @@ FrisBeer Leaderboard
    * - Mark Prosser
      -  193
      - ?
-   * - Thea Stevens & Isabelle Gorst
-     -  193
-     - Assorted Fruit juice
    * - Laura Risley
      -  384
      - Beer (?)
    * - Sarah Watson
      -  450
      - Pimms
+   * - Caleb Miller
+     -  DSQ 49
+     - Lemonade? (non-alc)
+   * - Ieuan Higgs
+     -  DSQ 54
+     - Guinness but no straw    
+   * - Natalie Ratcliffe
+     -  DSQ 84.23
+     - Orange and Lemonade (non-alc)
+   * - Thea Stevens & Isabelle Gorst
+     -  DSQ 193
+     - Assorted fruit juice (non-alc)
    * - 🦆 Charlie Suitters
      -  DNF
      - Cider (?)
-
-.. DSQ:: Disualified for various reasons
-
-   - Ieuan Higgs (54secs): DSQ for not using a straw (drank straight from the firsbee like a cup)
-
 
 .. admonition:: Upcoming Viva Dates
 
